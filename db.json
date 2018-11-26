@@ -19,6 +19,12 @@
       "name" : "HarryPotter9",
       "body" : "#MejorJuego ",
       "img" : "1"
+    },
+    {
+      "id": 2,
+      "name" : "Ron9",
+      "body" : "#MejorJuego ",
+      "img" : "2"
     }
   ],
   "profile": {
