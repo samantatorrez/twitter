@@ -19,49 +19,56 @@
       "name" : "HarryPotter9",
       "body" : "#MejorJuego mlaksfjñlaskdf alsdkjfñaslkdfj aslkdfñalskdjfñalskdjfñaljsdfñlask",
       "date" : "on March 5th, 2018",
-      "img" : "1.jpg"
+      "img" : "1.jpg",
+      "likes" : "80"
     },
     {
       "id": 2,
       "name" : "Ron9",
       "body" : "#MejorJuego kjhlkjh alkdfjañlsdkfj alfksdjfñlaskdfj asldkfjañsld alksdfjñañl",
       "date" : "on March 5th, 2013",
-      "img" : "2.jpg"
+      "img" : "2.jpg",
+      "likes" : "50"
     },
     {
       "id": 3,
       "name" : "Jellal",
       "body" : "#MejorJuego lfñaskjdfñ aslkdfjñaslkdfj asldflkasjdf asdfkasdjfñlaskdjf aslkdf",
       "date" : "on March 5th, 2014",
-      "img" : "3.jpg"
+      "img" : "3.jpg",
+      "likes" : "40"
     },
     {
       "id": 4,
       "name" : "YuriOn22433",
       "body" : "#MejorJuego jfalskd alñskdjfñlaskjdfie akdjfñlasjdfñispoe flñaksdjfñlaskdf ies",
       "date" : "on March 5th, 2014",
-      "img" : "4.jpg"
+      "img" : "4.jpg",
+      "likes" : "30"
     },
     {
       "id": 5,
       "name" : "Victor324",
       "body" : "#MejorJuego fasñldkfj añlskdfñlaskdfie añsdkfjñalskdjf easjdfñlaksjdñf añieei fa",
       "date" : "on March 5th, 2014",
-      "img" : "5.jpg"
+      "img" : "5.jpg",
+      "likes" : "20"
     },
     {
       "id": 6,
       "name" : "PuppyCat3",
       "body" : "#MejorJuego  ajlsdkfjañsdf asldfjñasdjf añskdfñalsdkf añlsdifjña sdflasjidf asldf",
       "date" : "on March 5th, 2017",
-      "img" : "6.jpg"
+      "img" : "6.jpg",
+      "likes" : "15"
     },
     {
       "id": 7,
       "name" : "Devilov",
       "body" : "#MejorJuego  alskfdñasldkf ñaksdfj ñalskfñlaskd fñaldf ñlaskfdjñlkaf ñalskdfakjd",
       "date" : "on March 5th, 2018",
-      "img" : "7.jpg"
+      "img" : "7.jpg",
+      "likes" : "1"
     }
   ],
   "profile": {
